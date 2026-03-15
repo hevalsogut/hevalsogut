@@ -2,7 +2,7 @@
 
 💻 Computer Science Student at Manisa Celal Bayar Universty</br>
 🚀 Skilled in Java, Python, and web development.</br>
-🌐 I'm always eager to learn and take on new challenges.</br>
+🌐 AI Engineer at Lighteagle.</br>
 🎯 I enjoy turning ideas into real, working applications.</br>
 🛠️ Check out my website [Heval Söğüt](https://hevalsogut.com/)
 
