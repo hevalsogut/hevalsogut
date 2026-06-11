@@ -1,8 +1,7 @@
 ## Hi, I'm Heval
 
-💻 Computer Science Student at Manisa Celal Bayar Universty</br>
-🚀 Skilled in Java, Python, and web development.</br>
 🌐 AI Engineer at Lighteagle.</br>
+🚀 Skilled in Java, Python, and web development.</br>
 🛠️ Check out my website [Heval Söğüt](https://hevalsogut.com/)
 
 
