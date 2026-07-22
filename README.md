@@ -1,6 +1,6 @@
 ## Hi, I'm Heval
 
-🌐 AI Engineer at Lighteagle.</br>
+🌐 AI Engineer at Light Eagle AG.</br>
 🚀 Skilled in Java, Python, and web development.</br>
 🛠️ Check out my website [Heval Söğüt](https://hevalsogut.com/)
 
